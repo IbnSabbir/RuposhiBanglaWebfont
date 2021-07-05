@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ruposhi Bangla';
+    src: url('https://github.com/IbnSabbir/RuposhiBanglaWebfont/blob/8b6945cc3524a21e68d15277efd447be726e2f0c/subset-RuposhiBanglaBold.woff2') format('woff2'),
+        url('https://github.com/IbnSabbir/RuposhiBanglaWebfont/blob/8b6945cc3524a21e68d15277efd447be726e2f0c/subset-RuposhiBanglaBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
